@@ -4,7 +4,7 @@
 ## Installation
 Une fois que vous avez téléchargé le fichier .zip, dézippez le avec votre logiciel. Pour lancer le logiciel :
 
-Si vous êtes sur Windows : Je prévois actuellement de faire une version Windows en C# mais j'ai besoin juste d'apprendre cette langue de programmation.
+Si vous êtes sur Windows : Je prévois actuellement de faire une version Windows.
 
 Si vous êtes sur Linux : 
 Dans un terminal, faites la commmande suivante : ./RandomSteamGames.sh
