@@ -11,6 +11,6 @@ Dans un terminal, faites la commmande suivante : ./RandomSteamGames.sh
 Si une erreur indique qu'il ne peux pas lancer le fichier, faites la commande suivante : chmod +x RandomSteamGames.sh
 
 ## Information
-Ce projet est un projet Open Source, toute les modifications sont autorisé.
+Ce projet est un projet Open Source soumis sous la licence : The Unlicense.
 
 C'est le premier logiciel que je fais sous d'autres langages que je fais actuellement (VB.NET), n'attendez pas quelque chose de grandios. C'est la première fois que je fais un programme en C# et en shell.
