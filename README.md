@@ -1,5 +1,5 @@
 # Random Steam Games
- Vous avez plein de jeux Steam mais vous ne savez pas quoi y jouer ? Ce petit logiciel est là pour vous sauvez !
+Do you have many Steam games but you don't know what to play it? This little software is here to save you!
 
 ## Installation
 Une fois que vous avez téléchargé le fichier .zip, dézippez le avec votre logiciel. Pour lancer le logiciel :
