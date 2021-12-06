@@ -2,15 +2,15 @@
 Do you have many Steam games but you don't know what to play it? This little software is here to save you!
 
 ## Installation
-Une fois que vous avez téléchargé le fichier .zip, dézippez le avec votre logiciel. Pour lancer le logiciel :
+After you download the file, unzip it with your software. To launch the software:
 
-Si vous êtes sur Windows : Je prévois actuellement de faire une version Windows.
+If you are on Windows: I am currently planning to do a Windows version.
 
-Si vous êtes sur Linux : 
-Dans un terminal, faites la commmande suivante : ./RandomSteamGames.sh
-Si une erreur indique qu'il ne peux pas lancer le fichier, faites la commande suivante : chmod +x RandomSteamGames.sh
+If you are on Linux:
+In a terminal, do the following command: ./RandomSteamGames.sh
+If an error indicates that it cannot launch the file, issue the following command: chmod +x RandomSteamGames.sh
 
 ## Information
-Ce projet est un projet Open Source soumis sous la licence : The Unlicense.
+This project is an Open Source project submitted under the license: The Unlicense.
 
-C'est le premier logiciel que je fais sous d'autres langages que je fais actuellement (VB.NET), n'attendez pas quelque chose de grandios. C'est la première fois que je fais un programme en C# et en shell.
+This is the first software that I am doing under other languages that I am currently making (VB.NET), don't expect something big. This is my first time doing a ??? and shell program.
