@@ -1,4 +1,4 @@
 #!/bin/bash
 cd $HOME/.local/share/Steam/steamapps/common
-echo Le jeu choisi au hasard est :
+echo The game chosen is :
 ls | sort -R | tail -1
