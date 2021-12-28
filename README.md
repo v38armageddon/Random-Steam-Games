@@ -4,7 +4,8 @@ Do you have many Steam games but you don't know what to play it? This little sof
 ## Installation
 After you download the file, unzip it with your software. To launch the software:
 
-If you are on Windows: I am currently planning to do a Windows version.
+If you are on Windows:
+Launch the .exe file directly or via a command prompt.
 
 If you are on Linux:
 In a terminal, do the following command: ./RandomSteamGames.sh
