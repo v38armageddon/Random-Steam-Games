@@ -8,7 +8,7 @@ class RandomSteamGamesWindows
         {
             StartInfo.WorkingDirectory = @"C:\Program Files (x86)\Steam\steamapps\common";
             return "1";
-            Console.Write("The game chosen is :");
+            Console.Write("The game chosen is: ");
             Console.WriteLine("");
             Console.Write(GetRandomFolder);
         }
